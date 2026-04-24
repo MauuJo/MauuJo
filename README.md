@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mansi Yadav 👋</h1>
 
 <p align="center">
-  <em>AI/ML Engineer · Building intelligent systems that actually work</em>
+  <em>AI/ML, Software Engineer Building intelligent systems that actually work</em>
 </p>
 
 <p align="center">
