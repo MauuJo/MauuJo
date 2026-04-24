@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mansi Yadav 👋</h1>
 
-<!--
-**MauuJo/MauuJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>AI/ML Engineer · Building intelligent systems that actually work</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MauuJo&style=flat-square&color=7F77DD" alt="profile views"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+I'm an AI/ML engineer passionate about building intelligent, end-to-end systems — from RAG pipelines and agentic AI to computer vision and full-stack web apps. I love turning complex ideas into clean, working software.
+
+- 🔭 Currently building **agentic AI systems** and **RAG applications**
+- 🌱 Exploring **LangGraph**, **vector databases**, and **LLM orchestration**
+- 💡 Interested in **applied ML**, **NLP**, and **computer vision**
+- 📫 Reach me at: [github.com/MauuJo](https://github.com/MauuJo)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🧠 **RAG Application** | Retrieval-Augmented Generation for intelligent document Q&A | Python · LangChain · Vector DB |
+| 💬 **Chat App** | Real-time conversational app with AI integration | Python · Streamlit / FastAPI |
+| 👥 **CrowdEdgeCounter** | Real-time crowd density estimation using edge detection | OpenCV · Python · CV |
+| 🏨 **Hostel Management System** | Full-stack complaint tracking for hostel residents | HTML · CSS · JavaScript |
+| 🤖 **Agentic AI Apps** | Autonomous agents that plan, reason, and execute tasks | LangGraph · LLMs · Python |
+| 📈 **ML Algorithms** | From-scratch implementations of gradient descent, KNN & more | Python · NumPy · Jupyter |
+
+---
+
+### 🛠️ Tech Stack
+
+```
+Languages    Python · JavaScript · HTML · CSS
+AI/ML        LangChain · LangGraph · Scikit-learn · OpenCV · LLMs
+Data         NumPy · Pandas · Jupyter · Vector DBs
+Web          FastAPI · Streamlit
+Tools        Git · GitHub · VS Code
+```
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MauuJo&show_icons=true&theme=default&hide_border=true&title_color=534AB7&icon_color=1D9E75" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauuJo&layout=compact&hide_border=true&title_color=534AB7&theme=default" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <em>"Build things. Break things. Learn everything."</em>
+</p>
