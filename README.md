@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-I'm an aspiring AI/ML and Software engineer passionate about building intelligent, end-to-end systems — from RAG pipelines and agentic AI to computer vision and full-stack web apps. I love turning complex ideas into clean, working software.
+I'm an  AI/ML and Software engineer passionate about building intelligent, end-to-end systems — from RAG pipelines and agentic AI to computer vision and full-stack web apps. I love turning complex ideas into clean, working software.
 
 - 🔭 Currently building **agentic AI systems** and **RAG applications**
 - 🌱 Exploring **LangGraph**, **vector databases**, and **LLM orchestration**
